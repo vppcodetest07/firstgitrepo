@@ -1,7 +1,7 @@
 this is my first edit
 second edit
 Dev branch changes
-first git remote chnages
+ft git remote chnages
 
 second chnage using online git editor 5th Oct.
 
